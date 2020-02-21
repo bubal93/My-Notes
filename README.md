@@ -1,6 +1,6 @@
 # My-Notes
 
-A simple native Android application for management of personal notes with server integration.
+A simple Android notes app for testing architectural components and basic server communication. 
 
 Built with using of Architectural Components (Room, ViewModel, LiveData) and Volley.
 
